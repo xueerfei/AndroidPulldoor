@@ -1,0 +1,2 @@
+# AndroidPulldoor
+Android上推门效果，参考自manymore13的一篇博客，修改了下bug，添加了多个展示页面的功能，同时支持回到上个页面
